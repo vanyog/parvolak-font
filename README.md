@@ -1,1 +1,1 @@
-# parvolak-font
+See REDME-bg.txt file in Bulgarian.
